@@ -5,7 +5,7 @@ const IcButtonPage = () => {
   return (
     <>
       <h1>Button Page</h1>
-      <IcButton>Test Button</IcButton>
+      <IcButton>Button</IcButton>
     </>
   );
 };
