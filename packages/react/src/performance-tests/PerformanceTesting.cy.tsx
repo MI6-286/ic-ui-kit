@@ -2,7 +2,7 @@
 
 //Lighthouse thresholds
 const thresholds = {
-  performance: 80,
+  performance: 100,
   accessibility: 100,
   "best-practices": 90,
   "first-contentful-paint": 2000,
